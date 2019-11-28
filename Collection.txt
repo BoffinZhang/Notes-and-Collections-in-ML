@@ -1,0 +1,7 @@
+- UCL RL Tutorial:
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
+
+- Paper
+    - Emotion in reinforcement learning agents and robots: a survey
+    - Emotion-Driven Reinforcement Learning
